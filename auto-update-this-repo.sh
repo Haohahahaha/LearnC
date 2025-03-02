@@ -1,4 +1,4 @@
 git add .
 git commit -m $1" update"
-git push cs master --force
+git push c master --force
 
